@@ -1,3 +1,24 @@
+> # 📦 This repo has moved
+>
+> **`claude-token-hygiene` has been consolidated into [Growth4U-systems/growth-skills](https://github.com/Growth4U-systems/growth-skills)** — a single curated home for all our open-source Claude Code skills.
+>
+> ## What changed
+> - `token-hygiene` is now maintained in [growth-skills/skills/token-hygiene/](https://github.com/Growth4U-systems/growth-skills/tree/main/skills/token-hygiene)
+> - The new repo includes additional skills (g4u-seo, deep-research, qa-bot) and a master INDEX with skill connections
+> - This repo is **archived** (read-only). No new commits, issues, or PRs here.
+>
+> ## Install going forward
+> ```bash
+> git clone https://github.com/Growth4U-systems/growth-skills.git
+> cp -R growth-skills/skills/token-hygiene ~/.claude/skills/
+> ```
+>
+> ---
+>
+> Below: original README, preserved for context.
+>
+> ---
+
 # Claude Code Token Hygiene
 
 **Your Claude Code conversations are wasting 30-50% of tokens on system context you don't need.**
